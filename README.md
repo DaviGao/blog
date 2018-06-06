@@ -1,2 +1,1 @@
-# blog
-FE blog
+# Blog
